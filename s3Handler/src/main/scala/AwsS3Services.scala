@@ -1,0 +1,3 @@
+class AwsS3Services {
+
+}

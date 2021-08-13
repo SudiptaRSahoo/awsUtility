@@ -1,3 +1,0 @@
-class AwsS3Objects {
-
-}
